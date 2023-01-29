@@ -20,3 +20,11 @@ Things you can implement to improve your model:
 
 - Make use of the larger datasets, especially the MS COCO dataset or the Stock3M dataset which is 26 times larger than MS COCO.
 - Implementing an Attention Based model:- Attention-based mechanisms are becoming increasingly popular in deep learning because they can dynamically focus on the various parts of the input image while the output sequences are being produced.
+
+#### Getting started
+The notebook below, provided by google collab.
+
+
+| Description       | Google Colab                                                              |
+|-------------------|---------------------------------------------------------------------------|
+| Notebook  | https://colab.research.google.com/drive/1dfbvRrjpSAD_r3vmqkGQiSTOnl_maM9j#scrollTo=CGcGqYoc6W8a|
